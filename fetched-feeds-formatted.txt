@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:dcterms="http://purl.org/dc/terms/">
+    <channel>
+        <title>
+            <![CDATA[El país | Página|12]]>
+        </title>
+        <description>
+            <![CDATA[La puja política de coyuntura y la reflexión de prestigiosos columnistas sobre la actualidad.]]>
+        </description>
+        <link>https://www.pagina12.com.ar</link>
+        <image>
+            <url>https://www.pagina12.com.ar/assets/media/logos/logo_rss.png</url>
+            <title>El país | Página|12</title>
+            <link>https://www.pagina12.com.ar</link>
+        </image>
+        <generator></generator>
+        <lastBuildDate>Tue, 14 May 2024 21:43:18 GMT</lastBuildDate>
+        <atom:link href="https://www.pagina12.com.ar/rss/secciones/el-pais/notas" rel="self" type="application/rss+xml"/>
+        <pubDate>Tue, 14 May 2024 21:29:30 GMT</pubDate>
+        <copyright>
+            <![CDATA[2024 - Página12]]>
+        </copyright>
+        <language>
+            <![CDATA[es-ar]]>
+        </language>
+        <managingEditor>
+            <![CDATA[infop12@pagina12.com.ar (Editor)]]>
+        </managingEditor>
+        <webMaster>
+            <![CDATA[webmaster@pagina12.com.ar (Webmaster)]]>
+        </webMaster>
+        <item>
+            <title>
+                <![CDATA[Dime qué busto eliges y te diré quién eres]]>
+            </title>
+            <description>
+                <![CDATA[Mitre, Sarmiento y Roca, entre otros, son las figuras que rodean a la imagen de Menem que inauguró el Presidente en la tarde del martes.]]>
+            </description>
+            <link>https://www.pagina12.com.ar/736660-dime-que-busto-eliges-y-te-dire-quien-eres</link>
+            <guid isPermaLink="false">https://www.pagina12.com.ar/736660-dime-que-busto-eliges-y-te-dire-quien-eres</guid>
+            <dc:creator>
+                <![CDATA[Página/12]]>
+            </dc:creator>
+            <pubDate>Tue, 14 May 2024 21:29:30 GMT</pubDate>
+            <enclosure url="https://images.pagina12.com.ar/styles/width960/public/2024-05/839173-whatsapp-20image-202024-05-14-20at-2018-00-18.jpeg?itok=P7Oc1VFI" length="0" type="image/jpeg"/>
+            <dcterms:alternative>Los &quot;próceres&quot; que Milei priorizó destacar en la Casa Rosada</dcterms:alternative>
+            <media:content url="https://images.pagina12.com.ar/styles/width960/public/2024-05/839173-whatsapp-20image-202024-05-14-20at-2018-00-18.jpeg?itok=P7Oc1VFI" type="image/jpeg" medium="image">
+                <media:credit>NA</media:credit>
+                <media:title>Momento de la instalación del busto de Carlos Menem en la Casa Rosada. </media:title>
+                <media:text>Momento de la instalación del busto de Carlos Menem en la Casa Rosada. </media:text>
+            </media:content>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Acto sin pacto: el plan B que maneja el Gobierno en caso de llegar a Córdoba sin la ley Bases ]]>
+            </title>
+            <description>
+                <![CDATA[El Presidente reconoció este martes que se podría postergar la firma del Pacto de Mayo "para junio o julio". La razón es que las negociaciones alrededor de su proyecto insignia en el Senado se están extendiendo más de lo previsto y los plazos no le dan. De todos modos, el evento con los gobernadores cercanos en la provincia mediterránea se mantendría en pie. La idea de la cumbre sería exponer a los ausentes como parte de "la casta" que boicotea la gestión. ]]>
+            </description>
+            <link>https://www.pagina12.com.ar/736648-acto-sin-pacto-el-plan-b-que-maneja-el-gobierno-en-caso-de-l</link>
+            <guid isPermaLink="false">https://www.pagina12.com.ar/736648-acto-sin-pacto-el-plan-b-que-maneja-el-gobierno-en-caso-de-l</guid>
+            <dc:creator>
+                <![CDATA[Melisa Molina]]>
+            </dc:creator>
+            <pubDate>Tue, 14 May 2024 21:04:09 GMT</pubDate>
+            <enclosure url="https://images.pagina12.com.ar/styles/width960/public/2024-05/839161-whatsapp-20image-202024-05-14-20at-2017-58-53.jpeg?itok=vh3CzYXL" length="0" type="image/jpeg"/>
+            <dcterms:alternative>Los tiempos del Congreso obligan a la Rosada a redefinir su estrategia</dcterms:alternative>
+            <media:content url="https://images.pagina12.com.ar/styles/width960/public/2024-05/839161-whatsapp-20image-202024-05-14-20at-2017-58-53.jpeg?itok=vh3CzYXL" type="image/jpeg" medium="image">
+                <media:credit>NA</media:credit>
+                <media:title>&quot;Si no es en mayo, será en junio o en julio, pero las reformas estructurales tarde o temprano las vamos a hacer”, dijo Milei.</media:title>
+                <media:text>&quot;Si no es en mayo, será en junio o en julio, pero las reformas estructurales tarde o temprano las vamos a hacer”, dijo Milei.</media:text>
+            </media:content>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Victoria Villaruel y sus tuits contra "los aplaudidores del nefasto Menem"]]>
+            </title>
+            <description>
+                <![CDATA[Antes de formar una alianza con el líder de La Libertad Avanza, la abogada negacionista hizo un extenso hilo en el que criticó al expresidente por razones que van desde la voladura de Río Tercero y el encubrimiento del atentado a la AMIA hasta la eliminación del servicio militar obligatorio y la reforma constitucional de 1994.]]>
+            </description>
+            <link>https://www.pagina12.com.ar/736645-victoria-villaruel-y-sus-tuits-contra-los-aplaudidores-del-n</link>
+            <guid isPermaLink="false">https://www.pagina12.com.ar/736645-victoria-villaruel-y-sus-tuits-contra-los-aplaudidores-del-n</guid>
+            <dc:creator>
+                <![CDATA[Página/12]]>
+            </dc:creator>
+            <pubDate>Tue, 14 May 2024 20:56:12 GMT</pubDate>
+            <enclosure url="https://images.pagina12.com.ar/styles/width960/public/2024-05/839158-whatsapp-20image-202024-05-14-20at-203-39-35-20pm.jpeg?itok=9jWKOBv-" length="0" type="image/jpeg"/>
+            <dcterms:alternative>Una nueva diferencia entre Milei y su vice</dcterms:alternative>
+            <media:content url="https://images.pagina12.com.ar/styles/width960/public/2024-05/839158-whatsapp-20image-202024-05-14-20at-203-39-35-20pm.jpeg?itok=9jWKOBv-" type="image/jpeg" medium="image">
+                <media:credit>Leandro Teysseire</media:credit>
+            </media:content>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Un busto de Menem para reivindicar los 90]]>
+            </title>
+            <description>
+                <![CDATA[El mandatario hizo una nueva reivindicación de las políticas neoliberales de los '90 al emplazar la imagen del expresidente en un acto a favor del ajuste y las privatizaciones. Participaron también familiares del riojano, incluido el titular de la Cámara de Diputados, Martín Menem.]]>
+            </description>
+            <link>https://www.pagina12.com.ar/736578-un-busto-de-menem-para-reivindicar-los-90</link>
+            <guid isPermaLink="false">https://www.pagina12.com.ar/736578-un-busto-de-menem-para-reivindicar-los-90</guid>
+            <dc:creator>
+                <![CDATA[Página/12]]>
+            </dc:creator>
+            <pubDate>Tue, 14 May 2024 15:28:54 GMT</pubDate>
+            <enclosure url="https://images.pagina12.com.ar/styles/width960/public/2024-05/839098-whatsapp-20image-202024-05-14-20at-2012-27-11-20pm.jpeg?itok=QA7pxl-1" length="0" type="image/jpeg"/>
+            <dcterms:alternative>Milei homenajeó al expresidente en la Casa Rosada</dcterms:alternative>
+            <media:content url="https://images.pagina12.com.ar/styles/width960/public/2024-05/839098-whatsapp-20image-202024-05-14-20at-2012-27-11-20pm.jpeg?itok=QA7pxl-1" type="image/jpeg" medium="image"></media:content>
+        </item>
+        <item>
+            <title>
+                <![CDATA[La reacción de Eduardo Belliboni ante los allanamientos a comedores de organizaciones sociales]]>
+            </title>
+            <link>https://www.pagina12.com.ar/736550-la-reaccion-de-eduardo-belliboni-ante-los-allanamientos-a-co</link>
+            <guid isPermaLink="false">https://www.pagina12.com.ar/736550-la-reaccion-de-eduardo-belliboni-ante-los-allanamientos-a-co</guid>
+            <dc:creator>
+                <![CDATA[Página/12]]>
+            </dc:creator>
+            <pubDate>Tue, 14 May 2024 13:25:11 GMT</pubDate>
+            <enclosure url="https://images.pagina12.com.ar/styles/width960/public/2024-05/839071-belliboni-na.jpg?itok=FLHoRsxJ" length="0" type="image/jpeg"/>
+            <dcterms:alternative>El referente del Polo Obrero le apuntó al Gobierno</dcterms:alternative>
+            <media:content url="https://images.pagina12.com.ar/styles/width960/public/2024-05/839071-belliboni-na.jpg?itok=FLHoRsxJ" type="image/jpeg" medium="image">
+                <media:credit>NA</media:credit>
+                <media:title>Eduardo Belliboni</media:title>
+                <media:text>Eduardo Belliboni</media:text>
+            </media:content>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Javier Milei, el debate de la Ley Bases y el Pacto de Mayo]]>
+            </title>
+            <link>https://www.pagina12.com.ar/736249-javier-milei-el-debate-de-la-ley-bases-y-el-pacto-de-mayo</link>
+            <guid isPermaLink="false">https://www.pagina12.com.ar/736249-javier-milei-el-debate-de-la-ley-bases-y-el-pacto-de-mayo</guid>
+            <dc:creator>
+                <![CDATA[Página/12]]>
+            </dc:creator>
+            <pubDate>Tue, 14 May 2024 11:43:15 GMT</pubDate>
+            <enclosure url="https://images.pagina12.com.ar/styles/width960/public/2024-05/838786-821052-5-a-afp-20-281-29_0.jpg?itok=EIZQVnFO" length="0" type="image/jpeg"/>
+            <dcterms:alternative>El oficialismo negocia en el Senado para conseguir dictamen</dcterms:alternative>
+            <media:content url="https://images.pagina12.com.ar/styles/width960/public/2024-05/838786-821052-5-a-afp-20-281-29_0.jpg?itok=EIZQVnFO" type="image/jpeg" medium="image"></media:content>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Cruces, chicanas y las críticas de las centrales obreras contra el capítulo laboral de las Bases]]>
+            </title>
+            <description>
+                <![CDATA[Críticas al fondo de cese, la figura del "colaborador", flexibilización de los contratos y la extensión del período de prueba. También, al RIGI y el blanqueo de capitales. “Lo más grave que tiene este proyecto --dijo Daer-- es que en lugar de  formalizar a los trabajadores, lisa y llanamente no solo los mandamos a la informalidad, sino que le damos un paraguas legal”. Cruce con el jujeño  Ezequiel Atauche por el paro. ]]>
+            </description>
+            <link>https://www.pagina12.com.ar/736495-cruces-chicanas-y-las-criticas-de-las-centrales-obreras-cont</link>
+            <guid isPermaLink="false">https://www.pagina12.com.ar/736495-cruces-chicanas-y-las-criticas-de-las-centrales-obreras-cont</guid>
+            <dc:creator>
+                <![CDATA[Página/12]]>
+            </dc:creator>
+            <pubDate>Tue, 14 May 2024 03:35:20 GMT</pubDate>
+            <enclosure url="https://images.pagina12.com.ar/styles/width960/public/2024-05/839053-5-a-na-281-29-0.jpg?itok=l6L8kqNd" length="0" type="image/jpeg"/>
+            <dcterms:alternative>Héctor Daer y Hugo Yasky en el Senado</dcterms:alternative>
+            <media:content url="https://images.pagina12.com.ar/styles/width960/public/2024-05/839053-5-a-na-281-29-0.jpg?itok=l6L8kqNd" type="image/jpeg" medium="image"></media:content>
+        </item>
+        <item>
+            <title>
+                <![CDATA[GustavoMenéndez, intendente de de Merlo: "Si Milei impone sus ideas, seremos unatriste colonia sin presente ni futuro”]]>
+            </title>
+            <description>
+                <![CDATA[Así lo sostuvo Gustavo Menéndez, intendente del partido de Merlo y uno de los hombres fuertes del peronismo en el conurbano bonaerense.]]>
+            </description>
+            <link>https://www.pagina12.com.ar/736663-gustavo-menendez-intendente-de-de-merlo-si-milei-impone-sus-</link>
+            <guid isPermaLink="false">https://www.pagina12.com.ar/736663-gustavo-menendez-intendente-de-de-merlo-si-milei-impone-sus-</guid>
+            <dc:creator>
+                <![CDATA[Página/12]]>
+            </dc:creator>
+            <pubDate>Tue, 14 May 2024 03:10:46 GMT</pubDate>
+            <enclosure url="https://images.pagina12.com.ar/styles/width960/public/2024-05/839213-gustavo-20men-c3-a9ndez_0.jpeg?itok=HaAXrvCG" length="0" type="image/jpeg"/>
+            <dcterms:alternative/>
+            <media:content url="https://images.pagina12.com.ar/styles/width960/public/2024-05/839213-gustavo-20men-c3-a9ndez_0.jpeg?itok=HaAXrvCG" type="image/jpeg" medium="image"></media:content>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Valenzuela continúa en el podio de los intendentes mejor valorados del conurbano]]>
+            </title>
+            <link>https://www.pagina12.com.ar/736654-valenzuela-continua-en-el-podio-de-los-intendentes-mejor-val</link>
+            <guid isPermaLink="false">https://www.pagina12.com.ar/736654-valenzuela-continua-en-el-podio-de-los-intendentes-mejor-val</guid>
+            <dc:creator>
+                <![CDATA[Página/12]]>
+            </dc:creator>
+            <pubDate>Tue, 14 May 2024 03:10:09 GMT</pubDate>
+            <enclosure url="https://images.pagina12.com.ar/styles/width960/public/2024-05/839210-foto-201-0.jpeg?itok=makf-G0n" length="0" type="image/jpeg"/>
+            <dcterms:alternative>Según un estudio entre vecinos</dcterms:alternative>
+            <media:content url="https://images.pagina12.com.ar/styles/width960/public/2024-05/839210-foto-201-0.jpeg?itok=makf-G0n" type="image/jpeg" medium="image"></media:content>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Cabildo abierto contra el ajuste de Milei]]>
+            </title>
+            <link>https://www.pagina12.com.ar/736458-cabildo-abierto-contra-el-ajuste-de-milei</link>
+            <guid isPermaLink="false">https://www.pagina12.com.ar/736458-cabildo-abierto-contra-el-ajuste-de-milei</guid>
+            <dc:creator>
+                <![CDATA[Página/12]]>
+            </dc:creator>
+            <pubDate>Tue, 14 May 2024 03:01:00 GMT</pubDate>
+            <enclosure url="https://images.pagina12.com.ar/styles/width960/public/2024-05/838958-6-b-20-281-29.jpg?itok=AStW3PMu" length="0" type="image/jpeg"/>
+            <dcterms:alternative>Fernando Espinoza y el Encuentro Multisectorial de La Matanza</dcterms:alternative>
+            <media:content url="https://images.pagina12.com.ar/styles/width960/public/2024-05/838958-6-b-20-281-29.jpg?itok=AStW3PMu" type="image/jpeg" medium="image"></media:content>
+        </item>
+        <item>
+            <title>
+                <![CDATA[A prisión por el botellazo a Milei]]>
+            </title>
+            <link>https://www.pagina12.com.ar/736459-a-prision-por-el-botellazo-a-milei</link>
+            <guid isPermaLink="false">https://www.pagina12.com.ar/736459-a-prision-por-el-botellazo-a-milei</guid>
+            <dc:creator>
+                <![CDATA[Página/12]]>
+            </dc:creator>
+            <pubDate>Tue, 14 May 2024 03:01:00 GMT</pubDate>
+            <enclosure url="https://images.pagina12.com.ar/styles/width960/public/2024-05/839040-whatsapp-20image-202024-05-13-20at-2022-33-51.jpeg?itok=h1X3egmO" length="0" type="image/jpeg"/>
+            <dcterms:alternative>Se trata de Gastón Ariel Mercanzini</dcterms:alternative>
+            <media:content url="https://images.pagina12.com.ar/styles/width960/public/2024-05/839040-whatsapp-20image-202024-05-13-20at-2022-33-51.jpeg?itok=h1X3egmO" type="image/jpeg" medium="image"></media:content>
+        </item>
+    </channel>
+</rss>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:dcterms="http://purl.org/dc/terms/">
+    <channel>
+        <title>
+            <![CDATA[Economía | Página|12]]>
+        </title>
+        <description>
+            <![CDATA[La economía de la Argentina y el mundo desde la crítica a la lógica dominante.]]>
+        </description>
+        <link>https://www.pagina12.com.ar</link>
+        <image>
+            <url>https://www.pagina12.com.ar/assets/media/logos/logo_rss.png</url>
+            <title>Economía | Página|12</title>
+            <link>https://www.pagina12.com.ar</link>
+        </image>
+        <generator></generator>
+        <lastBuildDate>Tue, 14 May 2024 21:45:26 GMT</lastBuildDate>
+        <atom:link href="https://www.pagina12.com.ar/rss/secciones/economia/notas" rel="self" type="application/rss+xml"/>
+        <pubDate>Tue, 14 May 2024 21:20:42 GMT</pubDate>
+        <copyright>
+            <![CDATA[2024 - Página12]]>
+        </copyright>
+        <language>
+            <![CDATA[es-ar]]>
+        </language>
+        <managingEditor>
+            <![CDATA[infop12@pagina12.com.ar (Editor)]]>
+        </managingEditor>
+        <webMaster>
+            <![CDATA[webmaster@pagina12.com.ar (Webmaster)]]>
+        </webMaster>
+        <item>
+            <title>
+                <![CDATA[Los precios según las regiones]]>
+            </title>
+            <link>https://www.pagina12.com.ar/736653-los-precios-segun-las-regiones</link>
+            <guid isPermaLink="false">https://www.pagina12.com.ar/736653-los-precios-segun-las-regiones</guid>
+            <dc:creator>
+                <![CDATA[Página/12]]>
+            </dc:creator>
+            <pubDate>Tue, 14 May 2024 21:20:42 GMT</pubDate>
+            <enclosure url="https://images.pagina12.com.ar/styles/width960/public/2024-05/839203-whatsapp-20image-202024-05-14-20at-2016-35-10.jpeg?itok=tCn-1y6D" length="0" type="image/jpeg"/>
+            <dcterms:alternative>En GBA, la inflación fue del 9,2 por ciento</dcterms:alternative>
+            <media:content url="https://images.pagina12.com.ar/styles/width960/public/2024-05/839203-whatsapp-20image-202024-05-14-20at-2016-35-10.jpeg?itok=tCn-1y6D" type="image/jpeg" medium="image">
+                <media:credit>NA</media:credit>
+            </media:content>
+        </item>
+        <item>
+            <title>
+                <![CDATA[La inflación desacelera pero sigue en valores muy altos]]>
+            </title>
+            <description>
+                <![CDATA[En medio de una brutal recesión, con el dólar planchado y recortes de subsidios en puerta, el Gobierno festejó el dato.]]>
+            </description>
+            <link>https://www.pagina12.com.ar/736646-la-inflacion-desacelera-pero-sigue-en-valores-muy-altos</link>
+            <guid isPermaLink="false">https://www.pagina12.com.ar/736646-la-inflacion-desacelera-pero-sigue-en-valores-muy-altos</guid>
+            <dc:creator>
+                <![CDATA[Javier Lewkowicz]]>
+            </dc:creator>
+            <pubDate>Tue, 14 May 2024 20:57:58 GMT</pubDate>
+            <enclosure url="https://images.pagina12.com.ar/styles/width960/public/2024-05/839148-whatsapp-20image-202024-05-14-20at-2016-31-49.jpeg?itok=UjOvkTak" length="0" type="image/jpeg"/>
+            <dcterms:alternative>Los precios subieron un 8,8 por ciento en abril </dcterms:alternative>
+            <media:content url="https://images.pagina12.com.ar/styles/width960/public/2024-05/839148-whatsapp-20image-202024-05-14-20at-2016-31-49.jpeg?itok=UjOvkTak" type="image/jpeg" medium="image">
+                <media:credit>Guadalupe Lombardo</media:credit>
+                <media:title>Las subas de servicios públicos, como la luz, empujaron hacia arriba al índice.</media:title>
+                <media:text>Las subas de servicios públicos, como la luz, empujaron hacia arriba al índice.</media:text>
+            </media:content>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Menos controles al campo]]>
+            </title>
+            <link>https://www.pagina12.com.ar/736634-menos-controles-al-campo</link>
+            <guid isPermaLink="false">https://www.pagina12.com.ar/736634-menos-controles-al-campo</guid>
+            <dc:creator>
+                <![CDATA[Página/12]]>
+            </dc:creator>
+            <pubDate>Tue, 14 May 2024 19:52:35 GMT</pubDate>
+            <enclosure url="https://images.pagina12.com.ar/styles/width960/public/2024-05/839162-whatsapp-20image-202024-05-14-20at-2016-39-38.jpeg?itok=_M-Cz6EG" length="0" type="image/jpeg"/>
+            <dcterms:alternative>Registros de producción</dcterms:alternative>
+            <media:content url="https://images.pagina12.com.ar/styles/width960/public/2024-05/839162-whatsapp-20image-202024-05-14-20at-2016-39-38.jpeg?itok=_M-Cz6EG" type="image/jpeg" medium="image"></media:content>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Consumo masivo, afuera]]>
+            </title>
+            <link>https://www.pagina12.com.ar/736630-consumo-masivo-afuera</link>
+            <guid isPermaLink="false">https://www.pagina12.com.ar/736630-consumo-masivo-afuera</guid>
+            <dc:creator>
+                <![CDATA[Página/12]]>
+            </dc:creator>
+            <pubDate>Tue, 14 May 2024 19:37:16 GMT</pubDate>
+            <enclosure url="https://images.pagina12.com.ar/styles/width960/public/2024-05/839138-13b-dafne-20gentinetta.jpg?itok=m_md4hsp" length="0" type="image/jpeg"/>
+            <dcterms:alternative>Derrumbe del 20,4 por ciento en abril</dcterms:alternative>
+            <media:content url="https://images.pagina12.com.ar/styles/width960/public/2024-05/839138-13b-dafne-20gentinetta.jpg?itok=m_md4hsp" type="image/jpeg" medium="image">
+                <media:title>Abril, peor que marzo para el consumo.</media:title>
+                <media:text>Abril, peor que marzo para el consumo.</media:text>
+            </media:content>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Indec: la inflación de abril fue de 8,8 por ciento]]>
+            </title>
+            <description>
+                <![CDATA[Según el organismo estatal, el Índice de Precios al Consumidor ya alcanza el 65 por ciento en apenas cuatro meses, sin contar el 25 por ciento de diciembre de 2023, ya bajo la administración de Javier Milei. ]]>
+            </description>
+            <link>https://www.pagina12.com.ar/736587-el-indec-anuncia-la-inflacion-de-abril</link>
+            <guid isPermaLink="false">https://www.pagina12.com.ar/736587-el-indec-anuncia-la-inflacion-de-abril</guid>
+            <dc:creator>
+                <![CDATA[Página/12]]>
+            </dc:creator>
+            <pubDate>Tue, 14 May 2024 16:11:10 GMT</pubDate>
+            <enclosure url="https://images.pagina12.com.ar/styles/width960/public/2024-05/839094-whatsapp-20image-202024-05-14-20at-202-51-44-20pm.jpeg?itok=Pb__HaX-" length="0" type="image/jpeg"/>
+            <dcterms:alternative>El Gobierno se regodea en la cifra de un dígito</dcterms:alternative>
+            <media:content url="https://images.pagina12.com.ar/styles/width960/public/2024-05/839094-whatsapp-20image-202024-05-14-20at-202-51-44-20pm.jpeg?itok=Pb__HaX-" type="image/jpeg" medium="image">
+                <media:credit>Jorge Larrosa</media:credit>
+            </media:content>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Dólar blue hoy, dólar hoy: a cuánto cotizan el martes 14 de mayo]]>
+            </title>
+            <link>https://www.pagina12.com.ar/736502-dolar-blue-hoy-dolar-hoy-a-cuanto-cotizan-el-martes-14-de-ma</link>
+            <guid isPermaLink="false">https://www.pagina12.com.ar/736502-dolar-blue-hoy-dolar-hoy-a-cuanto-cotizan-el-martes-14-de-ma</guid>
+            <dc:creator>
+                <![CDATA[Página/12]]>
+            </dc:creator>
+            <pubDate>Tue, 14 May 2024 08:00:15 GMT</pubDate>
+            <enclosure url="https://images.pagina12.com.ar/styles/width960/public/2024-05/sharon-mccutcheon-0_0.jpg?itok=j9RdfZZ_" length="0" type="image/jpeg"/>
+            <dcterms:alternative>El dólar blue   sube  55 pesos  </dcterms:alternative>
+            <media:content url="https://images.pagina12.com.ar/styles/width960/public/2024-05/sharon-mccutcheon-0_0.jpg?itok=j9RdfZZ_" type="image/jpeg" medium="image">
+                <media:title>Dólar blue hoy, dólar hoy: a cuánto cotizan el martes 14 de mayo</media:title>
+                <media:text>Dólar blue hoy, dólar hoy: a cuánto cotizan el martes 14 de mayo</media:text>
+            </media:content>
+        </item>
+        <item>
+            <title>
+                <![CDATA[El dólar blue aumenta 5 pesos]]>
+            </title>
+            <link>https://www.pagina12.com.ar/736419-el-dolar-blue-aumenta-5-pesos</link>
+            <guid isPermaLink="false">https://www.pagina12.com.ar/736419-el-dolar-blue-aumenta-5-pesos</guid>
+            <dc:creator>
+                <![CDATA[Página/12]]>
+            </dc:creator>
+            <pubDate>Tue, 14 May 2024 03:01:00 GMT</pubDate>
+            <enclosure url="https://images.pagina12.com.ar/styles/width960/public/2024-05/838966-whatsapp-20image-202024-05-13-20at-2016-12-28.jpeg?itok=LjLrCayy" length="0" type="image/jpeg"/>
+            <dcterms:alternative>Dejó de ser la cotización más barata de los paralelos</dcterms:alternative>
+            <media:content url="https://images.pagina12.com.ar/styles/width960/public/2024-05/838966-whatsapp-20image-202024-05-13-20at-2016-12-28.jpeg?itok=LjLrCayy" type="image/jpeg" medium="image">
+                <media:credit>EFE</media:credit>
+                <media:title>La bolsa porteña bajó 2,2 por ciento en la jornada.</media:title>
+                <media:text>La bolsa porteña bajó 2,2 por ciento en la jornada.</media:text>
+            </media:content>
+        </item>
+        <item>
+            <title>
+                <![CDATA[El FMI le da elogios al gobierno, pero no fondos frescos]]>
+            </title>
+            <description>
+                <![CDATA[El organismo avaló la libre competencia de monedas, y celebró el superávit fiscal y la caída de la inflación. Sin embargo, advirtió sobre la calidad del ajuste y pidió por flexibilidad cambiaria.]]>
+            </description>
+            <link>https://www.pagina12.com.ar/736432-el-fmi-le-da-elogios-al-gobierno-pero-no-fondos-frescos</link>
+            <guid isPermaLink="false">https://www.pagina12.com.ar/736432-el-fmi-le-da-elogios-al-gobierno-pero-no-fondos-frescos</guid>
+            <dc:creator>
+                <![CDATA[Natalí Risso]]>
+            </dc:creator>
+            <pubDate>Tue, 14 May 2024 03:01:00 GMT</pubDate>
+            <enclosure url="https://images.pagina12.com.ar/styles/width960/public/2024-05/838851-whatsapp-20image-202024-05-13-20at-2016-11-20.jpeg?itok=eMQ0exTa" length="0" type="image/jpeg"/>
+            <dcterms:alternative>En el comunicado de aprobación de la octava revisión del acuerdo</dcterms:alternative>
+            <media:content url="https://images.pagina12.com.ar/styles/width960/public/2024-05/838851-whatsapp-20image-202024-05-13-20at-2016-11-20.jpeg?itok=eMQ0exTa" type="image/jpeg" medium="image">
+                <media:credit>AFP</media:credit>
+                <media:title>El gobierno celebró la aprobación de la octava revisión del programa con el FMI</media:title>
+                <media:text>El gobierno celebró la aprobación de la octava revisión del programa con el FMI</media:text>
+            </media:content>
+        </item>
+        <item>
+            <title>
+                <![CDATA[97 despidos en Fate por caída de ventas]]>
+            </title>
+            <description>
+                <![CDATA["La industria argentina carece de incentivos y debe afrontar sobrecostos que otros países subsidian", se quejó la firma al informar la medida de ajuste del plantel.]]>
+            </description>
+            <link>https://www.pagina12.com.ar/736442-97-despidos-en-fate-por-caida-de-ventas</link>
+            <guid isPermaLink="false">https://www.pagina12.com.ar/736442-97-despidos-en-fate-por-caida-de-ventas</guid>
+            <dc:creator>
+                <![CDATA[Página/12]]>
+            </dc:creator>
+            <pubDate>Tue, 14 May 2024 03:01:00 GMT</pubDate>
+            <enclosure url="https://images.pagina12.com.ar/styles/width960/public/2024-05/838954-whatsapp-20image-202024-05-13-20at-204-12-51-20pm.jpeg?itok=xN8gcn1N" length="0" type="image/jpeg"/>
+            <dcterms:alternative>La empresa le apuntó a la desprotección industrial</dcterms:alternative>
+            <media:content url="https://images.pagina12.com.ar/styles/width960/public/2024-05/838954-whatsapp-20image-202024-05-13-20at-204-12-51-20pm.jpeg?itok=xN8gcn1N" type="image/jpeg" medium="image">
+                <media:title>&quot;Nuestro mercado interno es débil en controles y en defensa comercial&quot;, advirtió Fate.</media:title>
+                <media:text>&quot;Nuestro mercado interno es débil en controles y en defensa comercial&quot;, advirtió Fate.</media:text>
+            </media:content>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Actualizacíon de precios]]>
+            </title>
+            <link>https://www.pagina12.com.ar/736451-actualizacion-de-precios</link>
+            <guid isPermaLink="false">https://www.pagina12.com.ar/736451-actualizacion-de-precios</guid>
+            <dc:creator>
+                <![CDATA[Página/12]]>
+            </dc:creator>
+            <pubDate>Tue, 14 May 2024 03:01:00 GMT</pubDate>
+            <enclosure url="https://images.pagina12.com.ar/styles/width960/public/2024-05/839032-whatsapp-20image-202024-05-13-20at-204-12-58-20pm.jpeg?itok=Ztr_e4Zh" length="0" type="image/jpeg"/>
+            <dcterms:alternative>Biocombustibles </dcterms:alternative>
+            <media:content url="https://images.pagina12.com.ar/styles/width960/public/2024-05/839032-whatsapp-20image-202024-05-13-20at-204-12-58-20pm.jpeg?itok=Ztr_e4Zh" type="image/jpeg" medium="image"></media:content>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Olvídalos y volverán por más]]>
+            </title>
+            <link>https://www.pagina12.com.ar/736348-olvidalos-y-volveran-por-mas</link>
+            <guid isPermaLink="false">https://www.pagina12.com.ar/736348-olvidalos-y-volveran-por-mas</guid>
+            <dc:creator>
+                <![CDATA[Coordinadora de ex trabajadores y trabajadoras de SEGBA ]]>
+            </dc:creator>
+            <pubDate>Tue, 14 May 2024 03:01:00 GMT</pubDate>
+            <enclosure url="https://images.pagina12.com.ar/styles/width960/public/2024-05/838853-whatsapp-20image-202024-05-13-20at-2016-17-16.jpeg?itok=kxYuOhqa" length="0" type="image/jpeg"/>
+            <dcterms:alternative>Opinión</dcterms:alternative>
+            <media:content url="https://images.pagina12.com.ar/styles/width960/public/2024-05/838853-whatsapp-20image-202024-05-13-20at-2016-17-16.jpeg?itok=kxYuOhqa" type="image/jpeg" medium="image">
+                <media:credit>Dafne Gentinetta</media:credit>
+            </media:content>
+        </item>
+    </channel>
+</rss>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>La NUEVA Mañana, Córdoba, República Argentina.</title>
+        <link>https://lmdiario.com.ar/</link>
+        <description>Diario La NUEVA Mañana, Córdoba, Rep. Argentina  - "La Nueva Mañana" de Córdoba es un medio cooperativo y autogestionado por sus socios. Con foco en información plural y veraz chequeada exhaustivamente antes de su publicación.  Con sede en Córdoba, Capital, Rep. Argentina.  Se compone de un portal digital con actualización permanente de la información (24/7), y un semanario impreso con salida los días viernes.</description>
+        <lastBuildDate>Tue, 14 May 2024 18:41:04 GMT</lastBuildDate>
+        <generator>PyRSS2Gen-1.1.0</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <item>
+            <title>Canasta Básica: una familia necesitó en abril poco más de 828 mil pesos para no ser pobre</title>
+            <link>https://lmdiario.com.ar/contenido/451909/canasta-basica-una-familia-necesito-en-abril-poco-mas-de-828-mil-pesos-para-no-s</link>
+            <description>El Instituto Nacional de Estadística y Censos indicó que la Canasta Básica subió 7,1 por ciento en abril, por debajo de la inflación, Además, se informó que la Canasta Alimentaria creció 4,2 por ciento el mes pasado y se necesitaron 373.044 pesos para no ser indigente.</description>
+            <category>País</category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.87e3f46eeebf06dc.UE9CUkVaQSBCWSBOQV9ub3JtYWwud2VicA%3D%3D.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451909/canasta-basica-una-familia-necesito-en-abril-poco-mas-de-828-mil-pesos-para-no-s</guid>
+            <pubDate>Tue, 14 May 2024 18:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>El Senado inició la quinta jornada de tratamiento de la ley de Bases y el paquete fiscal</title>
+            <link>https://lmdiario.com.ar/contenido/451891/el-senado-inicio-la-quinta-jornada-de-tratamiento-de-la-ley-de-bases-y-el-paquet</link>
+            <description>El tan ansiado dictamen que busca La Libertad Avanza para llegar al recinto se dilata en la Cámara alta y el Pacto del 25 de Mayo le pisa los talones.</description>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.bcf23c9c07c87e88.V2hhdHNBcHAgSW1hZ2UgMjAyNC0wNS0xNCBhdCAxNC5fbm9ybWFsLndlYnA%3D.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451891/el-senado-inicio-la-quinta-jornada-de-tratamiento-de-la-ley-de-bases-y-el-paquet</guid>
+            <pubDate>Tue, 14 May 2024 17:46:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Milei no descartó que se posponga el Pacto de Mayo y sugirió que podría pasar a "junio o julio"</title>
+            <link>https://lmdiario.com.ar/contenido/451906/milei-no-descarto-que-se-posponga-el-pacto-de-mayo-y-sugirio-que-pase-a-junio-o-</link>
+            <description>El Presidente reconoció que la firma del acuerdo con los gobernadores podría retrasarse, en medio de las demoras en el avance de la Ley de Bases en el Senado y su posible regreso a Diputados. "No importa, si no es en mayo, será en junio o en julio", dijo el mandatario.</description>
+            <category>Política</category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.grande.98c909e22c481e14.TWlsZWkgYnkgbmFfZ3JhbmRlLndlYnA%3D.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451906/milei-no-descarto-que-se-posponga-el-pacto-de-mayo-y-sugirio-que-pase-a-junio-o-</guid>
+            <pubDate>Tue, 14 May 2024 16:46:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Un bebé que gateaba solo por las calles de Córdoba fue hallado por la Policía</title>
+            <link>https://lmdiario.com.ar/contenido/451904/un-bebe-que-gateaba-solo-por-las-calles-de-cordoba-fue-hallado-por-la-policia</link>
+            <description>El pequeño fue encontrado en horas de la madrugada en calles Manuel Astrada y Río Negro. Los efectivos localizaron a la mamá y se lo entregaron.</description>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.b8b63e61972e82f1.V2hhdHNBcHAgSW1hZ2UgMjAyNC0wNS0xNCBhdCAxNi5fbm9ybWFsLndlYnA%3D.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451904/un-bebe-que-gateaba-solo-por-las-calles-de-cordoba-fue-hallado-por-la-policia</guid>
+            <pubDate>Tue, 14 May 2024 16:34:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Una estudiante se arrojó del piso 11 de una universidad en San Telmo y está hospitalizada</title>
+            <link>https://lmdiario.com.ar/contenido/451898/una-estudiante-se-arrojo-del-piso-11-de-una-universidad-en-san-telmo</link>
+            <description>El caso ocurrió en el edificio de la Universidad Abierta Interamericana. La joven de 18 años fue derivada al Hospital Argerich. La Universidad emitió un comunicado y señaló que la Justicia investiga el hecho.</description>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.9a40896642031e40.V2hhdHNBcHAgSW1hZ2UgMjAyNC0wNS0xNCBhdCAxNi5fbm9ybWFsLndlYnA%3D.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451898/una-estudiante-se-arrojo-del-piso-11-de-una-universidad-en-san-telmo</guid>
+            <pubDate>Tue, 14 May 2024 16:04:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Nono: la FPA realizó dos allanamientos y secuestró estupefacientes</title>
+            <link>https://lmdiario.com.ar/contenido/451915/nono-la-fuerza-policial-antinarcotrafico-realizo-allanamientos-y-secuestro-estup</link>
+            <description>El operativo estuvo dirigido por el Ministerio Público Fiscal. En total fueron dos los domicilios allanados, donde se incautó marihuana y otros elementos, en principio relacionados al fraccionamiento y venta de sustancias ilícitas.</description>
+            <category>Córdoba</category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.a5b7fa9685abbb98.T3BlcmF0aXZvIGVuIE5vbm8gTVBGX25vcm1hbC53ZWJw.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451915/nono-la-fuerza-policial-antinarcotrafico-realizo-allanamientos-y-secuestro-estup</guid>
+            <pubDate>Tue, 14 May 2024 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Talleres recibe a Cobresal, para ratificar su buena campaña en la Copa Libertadores</title>
+            <link>https://lmdiario.com.ar/contenido/451879/talleres-recibe-a-cobresal-para-ratificar-su-buena-campana-en-la-copa-libertador</link>
+            <description>El encuentro, correspondiente a la quinta fecha del Grupo B, se jugará este martes desde las 19 en el estadio Kempes. El "Matador" de barrio Jardín tiene 10 puntos, fruto de tres triunfos y un empate. El partido será transmitido por Fox Sports y la plataforma Star+.</description>
+            <category>Deportes </category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.9b74d0430e2d33d9.VGFsbGVyZXMgQmFyY2Vsb25hIE5BX25vcm1hbC53ZWJw.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451879/talleres-recibe-a-cobresal-para-ratificar-su-buena-campana-en-la-copa-libertador</guid>
+            <pubDate>Tue, 14 May 2024 15:55:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Consecuencia de la contracción económica, el índice de inflación descendió a un dígito y arrojó 8,8%</title>
+            <link>https://lmdiario.com.ar/contenido/451897/consecuencia-de-la-contraccion-economica-el-indice-de-inflacion-descendio-a-un-d</link>
+            <description>El índice de inflación finalmente descendió a un dígito, ya que arrojó 8,8% en abril último, informó el INDEC. En el primer cuatrimestre, el costo de vida subió 65%, mientras que en los últimos doce meses fue del 289,4%.</description>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.ba46b5a155a02325.V2hhdHNBcHAgSW1hZ2UgMjAyNC0wNS0xNCBhdCAxNi5fbm9ybWFsLndlYnA%3D.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451897/consecuencia-de-la-contraccion-economica-el-indice-de-inflacion-descendio-a-un-d</guid>
+            <pubDate>Tue, 14 May 2024 15:53:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Javier Milei inauguró el busto del ex presidente Menem en la Casa Rosada</title>
+            <link>https://lmdiario.com.ar/contenido/451893/milei-inauguro-el-busto-de-menem-en-casa-rosada-es-un-acto-de-justicia</link>
+            <description>El Presidente de ultra derecha Javier Milei inauguró el busto del exmandatario Carlos Saúl Menem en Casa Rosada y reivindicó las políticas neoliberales que llevó a cabo, omitiendo que las mismas desembocaron en la histórica crisis del 2001.</description>
+            <category>País</category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.b4c8b1f69ba4bde4.V2hhdHNBcHAgSW1hZ2UgMjAyNC0wNS0xNCBhdCAxNS5fbm9ybWFsLndlYnA%3D.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451893/milei-inauguro-el-busto-de-menem-en-casa-rosada-es-un-acto-de-justicia</guid>
+            <pubDate>Tue, 14 May 2024 15:05:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Discapacidad: marcharán en Córdoba para visibilizar la "emergencia" que atraviesa el sector</title>
+            <link>https://lmdiario.com.ar/contenido/451849/discapacidad-marcharan-en-cordoba-para-visibilizar-la-emergencia-que-atraviesa-e</link>
+            <description>Este martes, desde las 17, personas con discapacidad, familias, prestadores e instituciones de Córdoba concentrarán en Colón y General Paz para llevar adelante una clase pública y marchar hasta la sede de la Agencia Nacional de Discapacidad.</description>
+            <category>Córdoba</category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.861f648bb2fe4bf5.YWp1c3RlIGRpc2NhcGFjaWRhZC1mb3Rvci0yMDIzMDdfbm9ybWFsLndlYnA%3D.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451849/discapacidad-marcharan-en-cordoba-para-visibilizar-la-emergencia-que-atraviesa-e</guid>
+            <pubDate>Tue, 14 May 2024 14:42:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Falleció Fabián Cancelarich, ex arquero de Belgrano y la Selección Argentina</title>
+            <link>https://lmdiario.com.ar/contenido/451887/fallecio-fabian-cancelarich-ex-arquero-de-belgrano-y-la-seleccion-argentina</link>
+            <description>En la mañana de este martes, el club Ferro Carril Oeste informó que falleció a los 58 años, tras sufrir una descompensación durante un entrenamiento matutino con los arqueros del club del barrio porteño de Caballito y ser atendido en el Hospital Durand.</description>
+            <category>Deportes </category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.afe737bf721d3dbb.RmFiacOhbiBDYW5jZWxhcmljaCAoWCBkZSBCZWxncmFuX25vcm1hbC53ZWJw.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451887/fallecio-fabian-cancelarich-ex-arquero-de-belgrano-y-la-seleccion-argentina</guid>
+            <pubDate>Tue, 14 May 2024 12:48:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Milei oficializó la designación de su rabino de confianza como embajador en Israel</title>
+            <link>https://lmdiario.com.ar/contenido/451884/milei-oficializo-la-designacion-de-su-rabino-de-confianza-como-embajador-en-isra</link>
+            <description>El presidente Javier Milei oficializó este martes la designación de los embajadores argentinos ante Colombia, Israel y Francia. Para la Embajada en Tel Aviv, como se había adelantado, quedó formalizado Axel Wahnish, un rabino del judaísmo ortodoxo y guía espiritual del Presidente.</description>
+            <category>País</category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.848460750cbc8704.bWlsZWlfbm9ybWFsLndlYnA%3D.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451884/milei-oficializo-la-designacion-de-su-rabino-de-confianza-como-embajador-en-isra</guid>
+            <pubDate>Tue, 14 May 2024 12:23:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Ley de Bases y paquete fiscal: la UCR le presentará al Gobierno un punteo con modificaciones</title>
+            <link>https://lmdiario.com.ar/contenido/451889/ley-de-bases-y-paquete-fiscal-la-ucr-le-presentara-al-gobierno-un-punteo-con-mod</link>
+            <description>Según pudo consignar Noticias Argentinas, si el oficialismo las acepta, encaminaría -en parte- el tan ansiado dictamen que le permitiría llegar al recinto senatorial y encauzar la votación en general de ambos mega proyectos.</description>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.a7a9ffc73f5ad322.V2hhdHNBcHAgSW1hZ2UgMjAyNC0wNS0xNCBhdCAxNS5fbm9ybWFsLndlYnA%3D.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451889/ley-de-bases-y-paquete-fiscal-la-ucr-le-presentara-al-gobierno-un-punteo-con-mod</guid>
+            <pubDate>Tue, 14 May 2024 11:52:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Por qué vacunarse: siete claves sobre la antigripal</title>
+            <link>https://lmdiario.com.ar/contenido/451881/por-que-vacunarse-siete-claves-sobre-la-antigripal</link>
+            <description>La vacunación oportuna en los grupos de riesgo representa la herramienta de mayor eficacia para la prevención. Todas las personas que integran los grupos de riesgo pueden acceder a la inmunización de manera gratuita. Las dosis están disponibles en los más de 800 vacunatorios existentes en la provincia.</description>
+            <category>Córdoba</category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.9e65fc4a8f70d12d.dmFjdW5hX25vcm1hbC53ZWJw.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451881/por-que-vacunarse-siete-claves-sobre-la-antigripal</guid>
+            <pubDate>Tue, 14 May 2024 11:50:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Luis Juez: "Si te juntás con bandidos, por más que hagas la ley, te van a cagar"</title>
+            <link>https://lmdiario.com.ar/contenido/451885/luis-juez-si-te-juntas-con-bandidos-por-mas-que-hagas-la-ley-te-van-a-cagar</link>
+            <description>El senador nacional cordobés, titular del bloque del Pro, defendió el proyecto de ley Bases que impulsa el gobierno de Javier Milei, al asegurar que la iniciativa en el Congreso fue "muy debatida y discutida" y que hay algunos que "quieren encontrarle el pelo al huevo".</description>
+            <category>Política</category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.aee67b8e381781ce.4c756973204a75657a5f6e6f726d616c2e77656270.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451885/luis-juez-si-te-juntas-con-bandidos-por-mas-que-hagas-la-ley-te-van-a-cagar</guid>
+            <pubDate>Tue, 14 May 2024 11:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Guillermo Francos adelantó que el Gobierno podría postergar la firma del Pacto de Mayo</title>
+            <link>https://lmdiario.com.ar/contenido/451867/guillermo-francos-adelanto-que-el-gobierno-podria-postergar-la-firma-del-pacto-d</link>
+            <description>El ministro del Interior deslizó que la confirmación estaría atada a lo que ocurra en el Senado con el proyecto de Ley Bases. "Estamos tratando de conciliar las propuestas de cambios", sostuvo el funcionario nacional al referirse al tratamiento legislativo de la iniciativa libertaria.</description>
+            <category>Política</category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.grande.97fd791582290378.R3VpbGxlcm1vIEZyYW5jb3MgYnkgbmFfZ3JhbmRlLndlYnA%3D.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451867/guillermo-francos-adelanto-que-el-gobierno-podria-postergar-la-firma-del-pacto-d</guid>
+            <pubDate>Tue, 14 May 2024 10:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>"El sacrificio que les están haciendo pasar a millones de argentinos es en vano”</title>
+            <link>https://lmdiario.com.ar/contenido/451822/el-sacrificio-que-les-estan-haciendo-pasar-a-millones-de-argentinos-es-en-vano</link>
+            <description>Así lo manifestó la diputada cordobesa de Unión por la Patria Gabriela Estévez en diálogo con LNM. "Hay que explicarle a la gente que el superávit de Milei y Caputo es un verso, porque no están pagando las cuentas", enfatizó.</description>
+            <category>Política</category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.beda4f24cb60a4ce.Z2FicmllbGEgZXN0ZcyBdmV6X25vcm1hbC53ZWJw.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451822/el-sacrificio-que-les-estan-haciendo-pasar-a-millones-de-argentinos-es-en-vano</guid>
+            <pubDate>Tue, 14 May 2024 10:27:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Choque fatal en Circunvalación: murió un conductor tras despistar e impactar contra un guardarraíl</title>
+            <link>https://lmdiario.com.ar/contenido/451851/choque-fatal-en-circunvalacion-murio-un-conductor-tras-despistar-e-impactar-cont</link>
+            <description>El trágico hecho se produjo este jueves a la madrugada a pocos metros del puente Capdevilla. La Policía informó que el automóvil impactó de frente contra la barrera de contención, aparentemente sin que hubiera intervención de otros vehículos. Se investigan las causas del accidente.</description>
+            <category>Córdoba</category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.b409ffc93d1871fe.V2hhdHNBcHAgSW1hZ2UgMjAyNC0wNS0xNCBhdCA4LjRfbm9ybWFsLndlYnA%3D.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451851/choque-fatal-en-circunvalacion-murio-un-conductor-tras-despistar-e-impactar-cont</guid>
+            <pubDate>Tue, 14 May 2024 10:26:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senado: sigue el debate en comisión de la ley Bases y el oficialismo negocia las firmas para el dictamen</title>
+            <link>https://lmdiario.com.ar/contenido/451865/el-senado-continua-el-debate-en-comision-de-la-ley-bases-el-oficialismo-negocia-</link>
+            <description>La Ley Bases intensificó las tensiones entre el oficialismo y la oposición, revelando la polarización y las complejas negociaciones dentro de las cámaras legislativas. Desde el Gobierno ya dan por descontado que habrá modificaciones que deberán volver en segunda revisión en Diputados.</description>
+            <category>Política</category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.grande.b133c9c565f69882.U2VuYWRvIGRlYmF0ZSBieSBuYV9ncmFuZGUud2VicA%3D%3D.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451865/el-senado-continua-el-debate-en-comision-de-la-ley-bases-el-oficialismo-negocia-</guid>
+            <pubDate>Tue, 14 May 2024 10:25:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>"Los discursos de odio disfrazados de opiniones instalan ideas violentas que se replican en las calles"</title>
+            <link>https://lmdiario.com.ar/contenido/451864/los-discursos-de-odio-disfrazados-de-opiniones-instalan-ideas-violentas-que-se-r</link>
+            <description>La referente e integrante del movimiento lesbianxs autoconvocadxs Eli Trimarchi remarcó que los homosexuales estuvieron "siempre en peligro, pero ahora hay más miedo", luego del triple femicidio en un hotel familiar de Barracas, al que calificó como "una masacre".</description>
+            <category>País</category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.b6751b35688d7243.RGlzY3Vyc29zIGRlIG9kaW8gKEx1Y2FzIEd1dGnDqXJyX25vcm1hbC53ZWJw.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451864/los-discursos-de-odio-disfrazados-de-opiniones-instalan-ideas-violentas-que-se-r</guid>
+            <pubDate>Tue, 14 May 2024 09:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Música y Ballet: la agenda semanal en el Teatro del Libertador</title>
+            <link>https://lmdiario.com.ar/contenido/451863/musica-y-ballet-la-agenda-semanal-en-el-teatro-del-libertador</link>
+            <description>La Agencia Córdoba Cultural difundió los distintos eventos culturales que tendrán lugar esta semana en el Teatro del Libertador, entre ellos destacan el ballet oficial de la provincia, una exposición del coreógrafo y bailarín Germán Massimino, el 10° aniversario de la Orquesta Escuela Mediterránea y el Cierto Andaluz de Joaquín Rodrigo, entre otros.</description>
+            <category>Cultura</category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.8e549660e360bb19.VGVhdHJvIGRlbCBMaWJlcnRhZG9yIChHb2JpZXJubyBfbm9ybWFsLndlYnA%3D.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451863/musica-y-ballet-la-agenda-semanal-en-el-teatro-del-libertador</guid>
+            <pubDate>Tue, 14 May 2024 09:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Libertadores: River recibe a Libertad de Paraguay para sellar su pase a octavos</title>
+            <link>https://lmdiario.com.ar/contenido/451856/libertadores-river-recibe-a-libertad-de-paraguay-para-sellar-su-pase-a-octavos</link>
+            <description>El partido se jugará este martes, desde las 21.30, en el estadio Monumental. Será arbitrado por el chileno Piero Maza y contará con la transmisión en directo de la señales Fox Sports y Telefe. Un triunfo le aseguraría al "Millonario" un lugar entre los mejores 16 equipos del torneo continental.</description>
+            <category>Deportes </category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.grande.ac87e2307d0e011f.Uml2ZXIgKFggZGUgUml2ZXIpX2dyYW5kZS53ZWJw.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451856/libertadores-river-recibe-a-libertad-de-paraguay-para-sellar-su-pase-a-octavos</guid>
+            <pubDate>Tue, 14 May 2024 09:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Hot Sale: Recomendaciones para que las compras sean seguras y evitar estafas</title>
+            <link>https://lmdiario.com.ar/contenido/451855/hot-sale-recomendaciones-para-que-las-compras-sean-seguras-y-evitar-estafas</link>
+            <description>La Dirección de Defensa del Consumidor en Córdoba ofrece algunas sugerencias para tener en cuenta a la hora de comprar de manera informada y protegida en el evento de e-commerce que se extiende hasta este miércoles 15 de mayo. En esta nota, todos los detalles a tener en cuenta.</description>
+            <category>Córdoba</category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.miniatura.af0ee163e7c897d9.486f742073616c655f6d696e6961747572612e6a706567.jpeg" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451855/hot-sale-recomendaciones-para-que-las-compras-sean-seguras-y-evitar-estafas</guid>
+            <pubDate>Tue, 14 May 2024 09:06:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>"No nos van a quebrar", indicaron las organizaciones sociales tras los allanamientos</title>
+            <link>https://lmdiario.com.ar/contenido/451846/no-nos-van-a-quebrar-indicaron-las-organizaciones-sociales-tras-los-allanamiento</link>
+            <description>Dirigentes sociales denunciaron amenazas, irregularidades y actos intimidatorios durante los operativos ordenados por la Justicia en el marco de una causa por denuncias anónimas y que se mantiene bajo secreto de sumario. Las organizaciones indicaron que se trata de persecución política.</description>
+            <category>País</category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.grande.a3a48f9b6ad6500c.RmlsYSBjb250cmEgZWwgaGFtYnJlIChOQSkgM19ncmFuZGUud2VicA%3D%3D.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451846/no-nos-van-a-quebrar-indicaron-las-organizaciones-sociales-tras-los-allanamiento</guid>
+            <pubDate>Tue, 14 May 2024 08:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>En una nueva jornada fría en Córdoba, este martes la máxima rondará los 14°</title>
+            <link>https://lmdiario.com.ar/contenido/451845/en-una-nueva-jornada-fria-en-cordoba-este-martes-la-temperatura-maxima-se-ubicar</link>
+            <description>El cielo estará mayormente cubierto durante toda la jornada, según lo anticipado por el SMN. Entre el miércoles y el jueves, se registraría un paulatino incremento de las temperaturas en la capital provincial, que se retrotraerían en las jornadas siguientes.</description>
+            <category>Córdoba</category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.grande.93656bf137d11ca6.576861747341707020496d61676520323032332d30352d30322061742032322e5f6772616e64652e77656270.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451845/en-una-nueva-jornada-fria-en-cordoba-este-martes-la-temperatura-maxima-se-ubicar</guid>
+            <pubDate>Tue, 14 May 2024 08:05:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Este martes continúa el tiempo frío: la mínima se estimó en 1° y la máxima rondará los 14°</title>
+            <link>https://lmdiario.com.ar/contenido/451842/este-martes-continua-el-tiempo-frio-la-minima-se-estima-en-1-y-la-maxima-rondara</link>
+            <description>El Servicio Meteorológico Nacional pronosticó para Córdoba y alrededores una jornada con cielo parcialmente nublado y vientos leves a moderados del sector noreste, rotando al norte. El tiempo frío se mantendrá durante toda la semana.</description>
+            <category>Córdoba</category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.93379e1ef07f5850.RnLDrW8gZW4gQ8OzcmRvYmEgYnkgTE5NX25vcm1hbC53ZWJw.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451842/este-martes-continua-el-tiempo-frio-la-minima-se-estima-en-1-y-la-maxima-rondara</guid>
+            <pubDate>Mon, 13 May 2024 20:28:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Pacto de Mayo: Kicillof anunció que no asistirá y ya son 5 los gobernadores que se bajan</title>
+            <link>https://lmdiario.com.ar/contenido/451830/pacto-de-mayo-kicillof-anuncio-que-no-asistira-y-suman-5-los-gobernadores-que-se</link>
+            <description>En tanto, otros 4 mandatarios provinciales están en duda y no confirmaron aún su presencia el sábado 25 de mayo en el acto que el presidente Javier Milei llamó en Córdoba. No hay certeza de que la ley emblema del Gobierno esté aprobada en la fecha prevista para la rúbrica del "Pacto".</description>
+            <category>País</category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.grande.a43954d7804be2d3.UmV1bmnDs24gZGUgZ29iZXJuYWRvcmVzIGNvbiBOaWNvX2dyYW5kZS53ZWJw.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451830/pacto-de-mayo-kicillof-anuncio-que-no-asistira-y-suman-5-los-gobernadores-que-se</guid>
+            <pubDate>Mon, 13 May 2024 20:12:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Daer aseguró que la Reforma Laboral de Milei busca llevar a los trabajadores a la informalidad</title>
+            <link>https://lmdiario.com.ar/contenido/451807/daer-aseguro-que-la-reforma-laboral-de-milei-busca-llevar-a-los-trabajadores-a-l</link>
+            <description>El titular de Sanidad y triunviro de la Confederación General del Trabajo (CGT), Héctor Daer, cuestionó la reformar laboral que incluye la ley de Bases y se preguntó cuál es su fin: “Si es abaratar costos, habría que especificarlo de otra manera”.</description>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.bb160d4ace9587d2.ZGFlciBieSBuYV9ub3JtYWwud2VicA%3D%3D.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451807/daer-aseguro-que-la-reforma-laboral-de-milei-busca-llevar-a-los-trabajadores-a-l</guid>
+            <pubDate>Mon, 13 May 2024 19:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Carmona sobre el último crimen que cometió: "El taxista eligió el auto por sobre su vida"</title>
+            <link>https://lmdiario.com.ar/contenido/451818/carmona-sobre-el-ultimo-crimen-que-cometio-el-taxista-eligio-el-auto-por-sobre-s</link>
+            <description>En la primera audiencia en el juicio que se le sigue por el asesinato de Javier Bocalón, Roberto Carmona hizo declaraciones escalofriantes ante los presentes en la sala de la Cámara Octava del Crimen. Quien cometió varios asesinatos previos, se refirió fríamente al crimen del taxista.</description>
+            <category>Córdoba</category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.bbe372df76c6cd2e.Q2FybW9uc2EgQ2FwdHVyYSBkZSBwYW50YWxsYSBFbERfbm9ybWFsLndlYnA%3D.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451818/carmona-sobre-el-ultimo-crimen-que-cometio-el-taxista-eligio-el-auto-por-sobre-s</guid>
+            <pubDate>Mon, 13 May 2024 19:40:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Recesión: una consultora publicó que el consumo masivo cayó 20,4% interanual en abril</title>
+            <link>https://lmdiario.com.ar/contenido/451815/recesion-una-consultora-publico-que-el-consumo-masivo-cayo-204-interanual-en-abr</link>
+            <description>El relevamiento de la consultora Focus Market vía Scan ntech indicó que la cantidad de tickets expedidos bajó un 8,9 por ciento frente al mes precedente y un 11,2 por ciento frente al año anterior.</description>
+            <category>Economía</category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.ad359f0512614504.Q29uc3VtbyBtYXNpdm8gYnkgTkFfbm9ybWFsLndlYnA%3D.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451815/recesion-una-consultora-publico-que-el-consumo-masivo-cayo-204-interanual-en-abr</guid>
+            <pubDate>Mon, 13 May 2024 19:35:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>La NUEVA Mañana, Córdoba, República Argentina.</title>
+        <link>https://lmdiario.com.ar/</link>
+        <description>Diario La NUEVA Mañana, Córdoba, Rep. Argentina  - "La Nueva Mañana" de Córdoba es un medio cooperativo y autogestionado por sus socios. Con foco en información plural y veraz chequeada exhaustivamente antes de su publicación.  Con sede en Córdoba, Capital, Rep. Argentina.  Se compone de un portal digital con actualización permanente de la información (24/7), y un semanario impreso con salida los días viernes.</description>
+        <lastBuildDate>Tue, 14 May 2024 18:44:32 GMT</lastBuildDate>
+        <generator>PyRSS2Gen-1.1.0</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <item>
+            <title>Canasta Básica: una familia necesitó en abril poco más de 828 mil pesos para no ser pobre</title>
+            <link>https://lmdiario.com.ar/contenido/451909/canasta-basica-una-familia-necesito-en-abril-poco-mas-de-828-mil-pesos-para-no-s</link>
+            <description>El Instituto Nacional de Estadística y Censos indicó que la Canasta Básica subió 7,1 por ciento en abril, por debajo de la inflación, Además, se informó que la Canasta Alimentaria creció 4,2 por ciento el mes pasado y se necesitaron 373.044 pesos para no ser indigente.</description>
+            <category>País</category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.87e3f46eeebf06dc.UE9CUkVaQSBCWSBOQV9ub3JtYWwud2VicA%3D%3D.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451909/canasta-basica-una-familia-necesito-en-abril-poco-mas-de-828-mil-pesos-para-no-s</guid>
+            <pubDate>Tue, 14 May 2024 18:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>El Senado inició la quinta jornada de tratamiento de la ley de Bases y el paquete fiscal</title>
+            <link>https://lmdiario.com.ar/contenido/451891/el-senado-inicio-la-quinta-jornada-de-tratamiento-de-la-ley-de-bases-y-el-paquet</link>
+            <description>El tan ansiado dictamen que busca La Libertad Avanza para llegar al recinto se dilata en la Cámara alta y el Pacto del 25 de Mayo le pisa los talones.</description>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.bcf23c9c07c87e88.V2hhdHNBcHAgSW1hZ2UgMjAyNC0wNS0xNCBhdCAxNC5fbm9ybWFsLndlYnA%3D.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451891/el-senado-inicio-la-quinta-jornada-de-tratamiento-de-la-ley-de-bases-y-el-paquet</guid>
+            <pubDate>Tue, 14 May 2024 17:46:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Milei no descartó que se posponga el Pacto de Mayo y sugirió que podría pasar a "junio o julio"</title>
+            <link>https://lmdiario.com.ar/contenido/451906/milei-no-descarto-que-se-posponga-el-pacto-de-mayo-y-sugirio-que-pase-a-junio-o-</link>
+            <description>El Presidente reconoció que la firma del acuerdo con los gobernadores podría retrasarse, en medio de las demoras en el avance de la Ley de Bases en el Senado y su posible regreso a Diputados. "No importa, si no es en mayo, será en junio o en julio", dijo el mandatario.</description>
+            <category>Política</category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.grande.98c909e22c481e14.TWlsZWkgYnkgbmFfZ3JhbmRlLndlYnA%3D.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451906/milei-no-descarto-que-se-posponga-el-pacto-de-mayo-y-sugirio-que-pase-a-junio-o-</guid>
+            <pubDate>Tue, 14 May 2024 16:46:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Un bebé que gateaba solo por las calles de Córdoba fue hallado por la Policía</title>
+            <link>https://lmdiario.com.ar/contenido/451904/un-bebe-que-gateaba-solo-por-las-calles-de-cordoba-fue-hallado-por-la-policia</link>
+            <description>El pequeño fue encontrado en horas de la madrugada en calles Manuel Astrada y Río Negro. Los efectivos localizaron a la mamá y se lo entregaron.</description>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.b8b63e61972e82f1.V2hhdHNBcHAgSW1hZ2UgMjAyNC0wNS0xNCBhdCAxNi5fbm9ybWFsLndlYnA%3D.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451904/un-bebe-que-gateaba-solo-por-las-calles-de-cordoba-fue-hallado-por-la-policia</guid>
+            <pubDate>Tue, 14 May 2024 16:34:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Una estudiante se arrojó del piso 11 de una universidad en San Telmo y está hospitalizada</title>
+            <link>https://lmdiario.com.ar/contenido/451898/una-estudiante-se-arrojo-del-piso-11-de-una-universidad-en-san-telmo</link>
+            <description>El caso ocurrió en el edificio de la Universidad Abierta Interamericana. La joven de 18 años fue derivada al Hospital Argerich. La Universidad emitió un comunicado y señaló que la Justicia investiga el hecho.</description>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.9a40896642031e40.V2hhdHNBcHAgSW1hZ2UgMjAyNC0wNS0xNCBhdCAxNi5fbm9ybWFsLndlYnA%3D.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451898/una-estudiante-se-arrojo-del-piso-11-de-una-universidad-en-san-telmo</guid>
+            <pubDate>Tue, 14 May 2024 16:04:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Nono: la FPA realizó dos allanamientos y secuestró estupefacientes</title>
+            <link>https://lmdiario.com.ar/contenido/451915/nono-la-fuerza-policial-antinarcotrafico-realizo-allanamientos-y-secuestro-estup</link>
+            <description>En los domicilios allanados se incautó marihuana y otros elementos, en principio relacionados al fraccionamiento y venta de sustancias ilícitas. Actuó la Fiscalía de Lucha contra el Narcotráfico del Primer Turno.</description>
+            <category>Córdoba</category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.a5b7fa9685abbb98.T3BlcmF0aXZvIGVuIE5vbm8gTVBGX25vcm1hbC53ZWJw.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451915/nono-la-fuerza-policial-antinarcotrafico-realizo-allanamientos-y-secuestro-estup</guid>
+            <pubDate>Tue, 14 May 2024 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Talleres recibe a Cobresal, para ratificar su buena campaña en la Copa Libertadores</title>
+            <link>https://lmdiario.com.ar/contenido/451879/talleres-recibe-a-cobresal-para-ratificar-su-buena-campana-en-la-copa-libertador</link>
+            <description>El encuentro, correspondiente a la quinta fecha del Grupo B, se jugará este martes desde las 19 en el estadio Kempes. El "Matador" de barrio Jardín tiene 10 puntos, fruto de tres triunfos y un empate. El partido será transmitido por Fox Sports y la plataforma Star+.</description>
+            <category>Deportes </category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.9b74d0430e2d33d9.VGFsbGVyZXMgQmFyY2Vsb25hIE5BX25vcm1hbC53ZWJw.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451879/talleres-recibe-a-cobresal-para-ratificar-su-buena-campana-en-la-copa-libertador</guid>
+            <pubDate>Tue, 14 May 2024 15:55:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Consecuencia de la contracción económica, el índice de inflación descendió a un dígito y arrojó 8,8%</title>
+            <link>https://lmdiario.com.ar/contenido/451897/consecuencia-de-la-contraccion-economica-el-indice-de-inflacion-descendio-a-un-d</link>
+            <description>El índice de inflación finalmente descendió a un dígito, ya que arrojó 8,8% en abril último, informó el INDEC. En el primer cuatrimestre, el costo de vida subió 65%, mientras que en los últimos doce meses fue del 289,4%.</description>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.ba46b5a155a02325.V2hhdHNBcHAgSW1hZ2UgMjAyNC0wNS0xNCBhdCAxNi5fbm9ybWFsLndlYnA%3D.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451897/consecuencia-de-la-contraccion-economica-el-indice-de-inflacion-descendio-a-un-d</guid>
+            <pubDate>Tue, 14 May 2024 15:53:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Javier Milei inauguró el busto del ex presidente Menem en la Casa Rosada</title>
+            <link>https://lmdiario.com.ar/contenido/451893/milei-inauguro-el-busto-de-menem-en-casa-rosada-es-un-acto-de-justicia</link>
+            <description>El Presidente de ultra derecha Javier Milei inauguró el busto del exmandatario Carlos Saúl Menem en Casa Rosada y reivindicó las políticas neoliberales que llevó a cabo, omitiendo que las mismas desembocaron en la histórica crisis del 2001.</description>
+            <category>País</category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.b4c8b1f69ba4bde4.V2hhdHNBcHAgSW1hZ2UgMjAyNC0wNS0xNCBhdCAxNS5fbm9ybWFsLndlYnA%3D.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451893/milei-inauguro-el-busto-de-menem-en-casa-rosada-es-un-acto-de-justicia</guid>
+            <pubDate>Tue, 14 May 2024 15:05:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Discapacidad: marcharán en Córdoba para visibilizar la "emergencia" que atraviesa el sector</title>
+            <link>https://lmdiario.com.ar/contenido/451849/discapacidad-marcharan-en-cordoba-para-visibilizar-la-emergencia-que-atraviesa-e</link>
+            <description>Este martes, desde las 17, personas con discapacidad, familias, prestadores e instituciones de Córdoba concentrarán en Colón y General Paz para llevar adelante una clase pública y marchar hasta la sede de la Agencia Nacional de Discapacidad.</description>
+            <category>Córdoba</category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.861f648bb2fe4bf5.YWp1c3RlIGRpc2NhcGFjaWRhZC1mb3Rvci0yMDIzMDdfbm9ybWFsLndlYnA%3D.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451849/discapacidad-marcharan-en-cordoba-para-visibilizar-la-emergencia-que-atraviesa-e</guid>
+            <pubDate>Tue, 14 May 2024 14:42:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Falleció Fabián Cancelarich, ex arquero de Belgrano y la Selección Argentina</title>
+            <link>https://lmdiario.com.ar/contenido/451887/fallecio-fabian-cancelarich-ex-arquero-de-belgrano-y-la-seleccion-argentina</link>
+            <description>En la mañana de este martes, el club Ferro Carril Oeste informó que falleció a los 58 años, tras sufrir una descompensación durante un entrenamiento matutino con los arqueros del club del barrio porteño de Caballito y ser atendido en el Hospital Durand.</description>
+            <category>Deportes </category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.afe737bf721d3dbb.RmFiacOhbiBDYW5jZWxhcmljaCAoWCBkZSBCZWxncmFuX25vcm1hbC53ZWJw.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451887/fallecio-fabian-cancelarich-ex-arquero-de-belgrano-y-la-seleccion-argentina</guid>
+            <pubDate>Tue, 14 May 2024 12:48:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Milei oficializó la designación de su rabino de confianza como embajador en Israel</title>
+            <link>https://lmdiario.com.ar/contenido/451884/milei-oficializo-la-designacion-de-su-rabino-de-confianza-como-embajador-en-isra</link>
+            <description>El presidente Javier Milei oficializó este martes la designación de los embajadores argentinos ante Colombia, Israel y Francia. Para la Embajada en Tel Aviv, como se había adelantado, quedó formalizado Axel Wahnish, un rabino del judaísmo ortodoxo y guía espiritual del Presidente.</description>
+            <category>País</category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.848460750cbc8704.bWlsZWlfbm9ybWFsLndlYnA%3D.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451884/milei-oficializo-la-designacion-de-su-rabino-de-confianza-como-embajador-en-isra</guid>
+            <pubDate>Tue, 14 May 2024 12:23:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Ley de Bases y paquete fiscal: la UCR le presentará al Gobierno un punteo con modificaciones</title>
+            <link>https://lmdiario.com.ar/contenido/451889/ley-de-bases-y-paquete-fiscal-la-ucr-le-presentara-al-gobierno-un-punteo-con-mod</link>
+            <description>Según pudo consignar Noticias Argentinas, si el oficialismo las acepta, encaminaría -en parte- el tan ansiado dictamen que le permitiría llegar al recinto senatorial y encauzar la votación en general de ambos mega proyectos.</description>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.a7a9ffc73f5ad322.V2hhdHNBcHAgSW1hZ2UgMjAyNC0wNS0xNCBhdCAxNS5fbm9ybWFsLndlYnA%3D.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451889/ley-de-bases-y-paquete-fiscal-la-ucr-le-presentara-al-gobierno-un-punteo-con-mod</guid>
+            <pubDate>Tue, 14 May 2024 11:52:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Por qué vacunarse: siete claves sobre la antigripal</title>
+            <link>https://lmdiario.com.ar/contenido/451881/por-que-vacunarse-siete-claves-sobre-la-antigripal</link>
+            <description>La vacunación oportuna en los grupos de riesgo representa la herramienta de mayor eficacia para la prevención. Todas las personas que integran los grupos de riesgo pueden acceder a la inmunización de manera gratuita. Las dosis están disponibles en los más de 800 vacunatorios existentes en la provincia.</description>
+            <category>Córdoba</category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.9e65fc4a8f70d12d.dmFjdW5hX25vcm1hbC53ZWJw.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451881/por-que-vacunarse-siete-claves-sobre-la-antigripal</guid>
+            <pubDate>Tue, 14 May 2024 11:50:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Luis Juez: "Si te juntás con bandidos, por más que hagas la ley, te van a cagar"</title>
+            <link>https://lmdiario.com.ar/contenido/451885/luis-juez-si-te-juntas-con-bandidos-por-mas-que-hagas-la-ley-te-van-a-cagar</link>
+            <description>El senador nacional cordobés, titular del bloque del Pro, defendió el proyecto de ley Bases que impulsa el gobierno de Javier Milei, al asegurar que la iniciativa en el Congreso fue "muy debatida y discutida" y que hay algunos que "quieren encontrarle el pelo al huevo".</description>
+            <category>Política</category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.aee67b8e381781ce.4c756973204a75657a5f6e6f726d616c2e77656270.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451885/luis-juez-si-te-juntas-con-bandidos-por-mas-que-hagas-la-ley-te-van-a-cagar</guid>
+            <pubDate>Tue, 14 May 2024 11:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Guillermo Francos adelantó que el Gobierno podría postergar la firma del Pacto de Mayo</title>
+            <link>https://lmdiario.com.ar/contenido/451867/guillermo-francos-adelanto-que-el-gobierno-podria-postergar-la-firma-del-pacto-d</link>
+            <description>El ministro del Interior deslizó que la confirmación estaría atada a lo que ocurra en el Senado con el proyecto de Ley Bases. "Estamos tratando de conciliar las propuestas de cambios", sostuvo el funcionario nacional al referirse al tratamiento legislativo de la iniciativa libertaria.</description>
+            <category>Política</category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.grande.97fd791582290378.R3VpbGxlcm1vIEZyYW5jb3MgYnkgbmFfZ3JhbmRlLndlYnA%3D.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451867/guillermo-francos-adelanto-que-el-gobierno-podria-postergar-la-firma-del-pacto-d</guid>
+            <pubDate>Tue, 14 May 2024 10:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>"El sacrificio que les están haciendo pasar a millones de argentinos es en vano”</title>
+            <link>https://lmdiario.com.ar/contenido/451822/el-sacrificio-que-les-estan-haciendo-pasar-a-millones-de-argentinos-es-en-vano</link>
+            <description>Así lo manifestó la diputada cordobesa de Unión por la Patria Gabriela Estévez en diálogo con LNM. "Hay que explicarle a la gente que el superávit de Milei y Caputo es un verso, porque no están pagando las cuentas", enfatizó.</description>
+            <category>Política</category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.beda4f24cb60a4ce.Z2FicmllbGEgZXN0ZcyBdmV6X25vcm1hbC53ZWJw.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451822/el-sacrificio-que-les-estan-haciendo-pasar-a-millones-de-argentinos-es-en-vano</guid>
+            <pubDate>Tue, 14 May 2024 10:27:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Choque fatal en Circunvalación: murió un conductor tras despistar e impactar contra un guardarraíl</title>
+            <link>https://lmdiario.com.ar/contenido/451851/choque-fatal-en-circunvalacion-murio-un-conductor-tras-despistar-e-impactar-cont</link>
+            <description>El trágico hecho se produjo este jueves a la madrugada a pocos metros del puente Capdevilla. La Policía informó que el automóvil impactó de frente contra la barrera de contención, aparentemente sin que hubiera intervención de otros vehículos. Se investigan las causas del accidente.</description>
+            <category>Córdoba</category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.b409ffc93d1871fe.V2hhdHNBcHAgSW1hZ2UgMjAyNC0wNS0xNCBhdCA4LjRfbm9ybWFsLndlYnA%3D.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451851/choque-fatal-en-circunvalacion-murio-un-conductor-tras-despistar-e-impactar-cont</guid>
+            <pubDate>Tue, 14 May 2024 10:26:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senado: sigue el debate en comisión de la ley Bases y el oficialismo negocia las firmas para el dictamen</title>
+            <link>https://lmdiario.com.ar/contenido/451865/el-senado-continua-el-debate-en-comision-de-la-ley-bases-el-oficialismo-negocia-</link>
+            <description>La Ley Bases intensificó las tensiones entre el oficialismo y la oposición, revelando la polarización y las complejas negociaciones dentro de las cámaras legislativas. Desde el Gobierno ya dan por descontado que habrá modificaciones que deberán volver en segunda revisión en Diputados.</description>
+            <category>Política</category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.grande.b133c9c565f69882.U2VuYWRvIGRlYmF0ZSBieSBuYV9ncmFuZGUud2VicA%3D%3D.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451865/el-senado-continua-el-debate-en-comision-de-la-ley-bases-el-oficialismo-negocia-</guid>
+            <pubDate>Tue, 14 May 2024 10:25:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>"Los discursos de odio disfrazados de opiniones instalan ideas violentas que se replican en las calles"</title>
+            <link>https://lmdiario.com.ar/contenido/451864/los-discursos-de-odio-disfrazados-de-opiniones-instalan-ideas-violentas-que-se-r</link>
+            <description>La referente e integrante del movimiento lesbianxs autoconvocadxs Eli Trimarchi remarcó que los homosexuales estuvieron "siempre en peligro, pero ahora hay más miedo", luego del triple femicidio en un hotel familiar de Barracas, al que calificó como "una masacre".</description>
+            <category>País</category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.b6751b35688d7243.RGlzY3Vyc29zIGRlIG9kaW8gKEx1Y2FzIEd1dGnDqXJyX25vcm1hbC53ZWJw.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451864/los-discursos-de-odio-disfrazados-de-opiniones-instalan-ideas-violentas-que-se-r</guid>
+            <pubDate>Tue, 14 May 2024 09:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Música y Ballet: la agenda semanal en el Teatro del Libertador</title>
+            <link>https://lmdiario.com.ar/contenido/451863/musica-y-ballet-la-agenda-semanal-en-el-teatro-del-libertador</link>
+            <description>La Agencia Córdoba Cultural difundió los distintos eventos culturales que tendrán lugar esta semana en el Teatro del Libertador, entre ellos destacan el ballet oficial de la provincia, una exposición del coreógrafo y bailarín Germán Massimino, el 10° aniversario de la Orquesta Escuela Mediterránea y el Cierto Andaluz de Joaquín Rodrigo, entre otros.</description>
+            <category>Cultura</category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.8e549660e360bb19.VGVhdHJvIGRlbCBMaWJlcnRhZG9yIChHb2JpZXJubyBfbm9ybWFsLndlYnA%3D.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451863/musica-y-ballet-la-agenda-semanal-en-el-teatro-del-libertador</guid>
+            <pubDate>Tue, 14 May 2024 09:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Libertadores: River recibe a Libertad de Paraguay para sellar su pase a octavos</title>
+            <link>https://lmdiario.com.ar/contenido/451856/libertadores-river-recibe-a-libertad-de-paraguay-para-sellar-su-pase-a-octavos</link>
+            <description>El partido se jugará este martes, desde las 21.30, en el estadio Monumental. Será arbitrado por el chileno Piero Maza y contará con la transmisión en directo de la señales Fox Sports y Telefe. Un triunfo le aseguraría al "Millonario" un lugar entre los mejores 16 equipos del torneo continental.</description>
+            <category>Deportes </category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.grande.ac87e2307d0e011f.Uml2ZXIgKFggZGUgUml2ZXIpX2dyYW5kZS53ZWJw.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451856/libertadores-river-recibe-a-libertad-de-paraguay-para-sellar-su-pase-a-octavos</guid>
+            <pubDate>Tue, 14 May 2024 09:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Hot Sale: Recomendaciones para que las compras sean seguras y evitar estafas</title>
+            <link>https://lmdiario.com.ar/contenido/451855/hot-sale-recomendaciones-para-que-las-compras-sean-seguras-y-evitar-estafas</link>
+            <description>La Dirección de Defensa del Consumidor en Córdoba ofrece algunas sugerencias para tener en cuenta a la hora de comprar de manera informada y protegida en el evento de e-commerce que se extiende hasta este miércoles 15 de mayo. En esta nota, todos los detalles a tener en cuenta.</description>
+            <category>Córdoba</category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.miniatura.af0ee163e7c897d9.486f742073616c655f6d696e6961747572612e6a706567.jpeg" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451855/hot-sale-recomendaciones-para-que-las-compras-sean-seguras-y-evitar-estafas</guid>
+            <pubDate>Tue, 14 May 2024 09:06:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>"No nos van a quebrar", indicaron las organizaciones sociales tras los allanamientos</title>
+            <link>https://lmdiario.com.ar/contenido/451846/no-nos-van-a-quebrar-indicaron-las-organizaciones-sociales-tras-los-allanamiento</link>
+            <description>Dirigentes sociales denunciaron amenazas, irregularidades y actos intimidatorios durante los operativos ordenados por la Justicia en el marco de una causa por denuncias anónimas y que se mantiene bajo secreto de sumario. Las organizaciones indicaron que se trata de persecución política.</description>
+            <category>País</category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.grande.a3a48f9b6ad6500c.RmlsYSBjb250cmEgZWwgaGFtYnJlIChOQSkgM19ncmFuZGUud2VicA%3D%3D.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451846/no-nos-van-a-quebrar-indicaron-las-organizaciones-sociales-tras-los-allanamiento</guid>
+            <pubDate>Tue, 14 May 2024 08:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>En una nueva jornada fría en Córdoba, este martes la máxima rondará los 14°</title>
+            <link>https://lmdiario.com.ar/contenido/451845/en-una-nueva-jornada-fria-en-cordoba-este-martes-la-temperatura-maxima-se-ubicar</link>
+            <description>El cielo estará mayormente cubierto durante toda la jornada, según lo anticipado por el SMN. Entre el miércoles y el jueves, se registraría un paulatino incremento de las temperaturas en la capital provincial, que se retrotraerían en las jornadas siguientes.</description>
+            <category>Córdoba</category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.grande.93656bf137d11ca6.576861747341707020496d61676520323032332d30352d30322061742032322e5f6772616e64652e77656270.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451845/en-una-nueva-jornada-fria-en-cordoba-este-martes-la-temperatura-maxima-se-ubicar</guid>
+            <pubDate>Tue, 14 May 2024 08:05:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Este martes continúa el tiempo frío: la mínima se estimó en 1° y la máxima rondará los 14°</title>
+            <link>https://lmdiario.com.ar/contenido/451842/este-martes-continua-el-tiempo-frio-la-minima-se-estima-en-1-y-la-maxima-rondara</link>
+            <description>El Servicio Meteorológico Nacional pronosticó para Córdoba y alrededores una jornada con cielo parcialmente nublado y vientos leves a moderados del sector noreste, rotando al norte. El tiempo frío se mantendrá durante toda la semana.</description>
+            <category>Córdoba</category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.93379e1ef07f5850.RnLDrW8gZW4gQ8OzcmRvYmEgYnkgTE5NX25vcm1hbC53ZWJw.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451842/este-martes-continua-el-tiempo-frio-la-minima-se-estima-en-1-y-la-maxima-rondara</guid>
+            <pubDate>Mon, 13 May 2024 20:28:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Pacto de Mayo: Kicillof anunció que no asistirá y ya son 5 los gobernadores que se bajan</title>
+            <link>https://lmdiario.com.ar/contenido/451830/pacto-de-mayo-kicillof-anuncio-que-no-asistira-y-suman-5-los-gobernadores-que-se</link>
+            <description>En tanto, otros 4 mandatarios provinciales están en duda y no confirmaron aún su presencia el sábado 25 de mayo en el acto que el presidente Javier Milei llamó en Córdoba. No hay certeza de que la ley emblema del Gobierno esté aprobada en la fecha prevista para la rúbrica del "Pacto".</description>
+            <category>País</category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.grande.a43954d7804be2d3.UmV1bmnDs24gZGUgZ29iZXJuYWRvcmVzIGNvbiBOaWNvX2dyYW5kZS53ZWJw.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451830/pacto-de-mayo-kicillof-anuncio-que-no-asistira-y-suman-5-los-gobernadores-que-se</guid>
+            <pubDate>Mon, 13 May 2024 20:12:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Daer aseguró que la Reforma Laboral de Milei busca llevar a los trabajadores a la informalidad</title>
+            <link>https://lmdiario.com.ar/contenido/451807/daer-aseguro-que-la-reforma-laboral-de-milei-busca-llevar-a-los-trabajadores-a-l</link>
+            <description>El titular de Sanidad y triunviro de la Confederación General del Trabajo (CGT), Héctor Daer, cuestionó la reformar laboral que incluye la ley de Bases y se preguntó cuál es su fin: “Si es abaratar costos, habría que especificarlo de otra manera”.</description>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.bb160d4ace9587d2.ZGFlciBieSBuYV9ub3JtYWwud2VicA%3D%3D.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451807/daer-aseguro-que-la-reforma-laboral-de-milei-busca-llevar-a-los-trabajadores-a-l</guid>
+            <pubDate>Mon, 13 May 2024 19:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Carmona sobre el último crimen que cometió: "El taxista eligió el auto por sobre su vida"</title>
+            <link>https://lmdiario.com.ar/contenido/451818/carmona-sobre-el-ultimo-crimen-que-cometio-el-taxista-eligio-el-auto-por-sobre-s</link>
+            <description>En la primera audiencia en el juicio que se le sigue por el asesinato de Javier Bocalón, Roberto Carmona hizo declaraciones escalofriantes ante los presentes en la sala de la Cámara Octava del Crimen. Quien cometió varios asesinatos previos, se refirió fríamente al crimen del taxista.</description>
+            <category>Córdoba</category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.bbe372df76c6cd2e.Q2FybW9uc2EgQ2FwdHVyYSBkZSBwYW50YWxsYSBFbERfbm9ybWFsLndlYnA%3D.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451818/carmona-sobre-el-ultimo-crimen-que-cometio-el-taxista-eligio-el-auto-por-sobre-s</guid>
+            <pubDate>Mon, 13 May 2024 19:40:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Recesión: una consultora publicó que el consumo masivo cayó 20,4% interanual en abril</title>
+            <link>https://lmdiario.com.ar/contenido/451815/recesion-una-consultora-publico-que-el-consumo-masivo-cayo-204-interanual-en-abr</link>
+            <description>El relevamiento de la consultora Focus Market vía Scan ntech indicó que la cantidad de tickets expedidos bajó un 8,9 por ciento frente al mes precedente y un 11,2 por ciento frente al año anterior.</description>
+            <category>Economía</category>
+            <enclosure url="https://lmdiario.com.ar/download/multimedia.normal.ad359f0512614504.Q29uc3VtbyBtYXNpdm8gYnkgTkFfbm9ybWFsLndlYnA%3D.webp" length="0" type="image/jpeg"></enclosure>
+            <guid>https://lmdiario.com.ar/contenido/451815/recesion-una-consultora-publico-que-el-consumo-masivo-cayo-204-interanual-en-abr</guid>
+            <pubDate>Mon, 13 May 2024 19:35:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
